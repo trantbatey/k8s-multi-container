@@ -3,3 +3,4 @@
 ./worker/worker.iml
 .DS_Store
 ./k8s/dashboard-adminuser.yaml
+./*/*:Zone.*
